@@ -1,4 +1,21 @@
 .title-container > *:first-child {
   font-family: "Ka-blam";
   font-size: 90px;
+  letter-spacing: 0px;
+}
+
+.title-container {
+  font-family: "Manga-speak";
+  letter-spacing: 4px;
+}
+.title-container .start-btn {
+  background-color: transparent;
+  color: black;
+  border: 2px solid black;
+  font-size: 35px;
+}
+.title-container .start-btn:hover {
+  background-color: black;
+  color: white;
+  border-color: black;
 }

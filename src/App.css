@@ -2,3 +2,8 @@
   font-family: "Ka-blam";
   src: url("../assets/fonts/Ka-blam.ttf") format("opentype");
 }
+
+@font-face {
+  font-family: "Manga-speak";
+  src: url("../assets/fonts/Manga-speak\ 2.ttf") format("opentype");
+}
